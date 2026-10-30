@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "OriginOS Dynamic Island Launcher",
+  "short_name": "DynamicBar",
+  "description": "OriginOS Android 17 style customizable launcher with fluid Dynamic Island, atomic widgets, super charging animations, custom icon packs, and system permissions manager.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090a0f",
+  "theme_color": "#090a0f",
+  "icons": [
+    {
+      "src": "/assets/aistudio/Screenshot_20261030_205135_aaa74968.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/aistudio/Screenshot_20261030_205135_aaa74968.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

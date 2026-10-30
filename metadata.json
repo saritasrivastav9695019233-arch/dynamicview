@@ -1,0 +1,6 @@
+{
+  "name": "OriginOS Dynamic Island Launcher",
+  "description": "OriginOS Android 17 style customizable launcher with fluid Dynamic Island, atomic widgets, super charging animations, custom icon packs, and system permissions manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
